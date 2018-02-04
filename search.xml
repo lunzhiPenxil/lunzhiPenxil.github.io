@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[测试视频功能]]></title>
+    <url>%2F2018%2F02%2F04%2F%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E5%8A%9F%E8%83%BD%2F</url>
+    <content type="text"><![CDATA[本文内置音乐播放器(内含自动播放音频)]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>video</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[测试音乐功能]]></title>
     <url>%2F2018%2F02%2F04%2F%E6%B5%8B%E8%AF%95%E9%9F%B3%E4%B9%90%E5%8A%9F%E8%83%BD%2F</url>
-    <content type="text"><![CDATA[本文内置音乐播放器 new APlayer({ element: document.getElementById("aplayer0"), narrow: false, autoplay: true, showlrc: 0, music: { title: "Entropy", author: "Nigel Stanford", url: "https://github.com/lunzhiPenxil/My_music_list/blob/master/Nigel%20Stanford%20-%20Entropy.mp3", pic: "https://xxx.com/1.jpg", } });]]></content>
+    <content type="text"><![CDATA[本文内置音乐播放器(内含自动播放音频) #H5播放器Aplayer（然而暂时并没有能够用来存放音乐的服务器）: new APlayer({ element: document.getElementById("aplayer0"), narrow: false, autoplay: true, showlrc: 0, music: { title: "Entropy", author: "Nigel Stanford", url: "music_list/Nigel_Stanford_Entropy.mp3", pic: "https://xxx.com/1.jpg", } }); #网易云音乐基于iframe ##自动播放版 ##非自动播放版]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
       <tags>
         <tag>test</tag>
         <tag>music</tag>
