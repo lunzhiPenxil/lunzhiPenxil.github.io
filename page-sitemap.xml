@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://benzenpenxil.xyz/about/</loc>
+        <lastmod>2018-02-05T07:18:55.205Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://benzenpenxil.xyz/tags/</loc>
         <lastmod>2018-02-05T03:15:38.352Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>http://benzenpenxil.xyz/secret/</loc>
         <lastmod>2018-02-05T03:15:23.755Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://benzenpenxil.xyz/about/</loc>
-        <lastmod>2018-02-05T03:14:20.839Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
