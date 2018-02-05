@@ -23,15 +23,15 @@
     </url>
 
     <url>
-        <loc>http://benzenpenxil.xyz/tags/test/</loc>
+        <loc>http://benzenpenxil.xyz/tags/title/</loc>
         <lastmod>2018-02-05T02:20:42.869Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://benzenpenxil.xyz/tags/title/</loc>
-        <lastmod>2018-02-05T02:20:42.869Z</lastmod>
+        <loc>http://benzenpenxil.xyz/tags/test/</loc>
+        <lastmod>2018-02-05T03:14:19.805Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

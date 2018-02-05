@@ -7,29 +7,29 @@
     </url>
     
     <url>
-        <loc>http://benzenpenxil.xyz/categories/</loc>
-        <lastmod>2018-02-04T12:54:18.717Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://benzenpenxil.xyz/tags/</loc>
-        <lastmod>2018-02-04T12:53:57.339Z</lastmod>
+        <lastmod>2018-02-05T03:15:38.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://benzenpenxil.xyz/secret/</loc>
-        <lastmod>2018-02-04T12:53:56.427Z</lastmod>
+        <lastmod>2018-02-05T03:15:23.755Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://benzenpenxil.xyz/about/</loc>
-        <lastmod>2018-02-04T12:52:45.514Z</lastmod>
+        <lastmod>2018-02-05T03:14:20.839Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://benzenpenxil.xyz/categories/</loc>
+        <lastmod>2018-02-04T12:54:18.717Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
