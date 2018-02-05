@@ -13,6 +13,28 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[测试评论禁止]]></title>
+    <url>%2F1970%2F02%2F05%2Ftest%2F%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA%E7%A6%81%E6%AD%A2%2F</url>
+    <content type="text"><![CDATA[本文将无法评论 不能说的秘密（逃）]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[评论系统已上线]]></title>
+    <url>%2F1970%2F02%2F05%2Ftest%2F%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF%2F</url>
+    <content type="text"><![CDATA[采用第三方评论系统来必力 欢迎留言]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[测试视频功能]]></title>
     <url>%2F1970%2F02%2F04%2Ftest%2F%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E5%8A%9F%E8%83%BD%2F</url>
     <content type="text"><![CDATA[本文内置视频播放器]]></content>

@@ -44,6 +44,52 @@
   </entry>
   
   <entry>
+    <title>测试评论禁止</title>
+    <link href="http://benzenpenxil.xyz/1970/02/05/test/%E6%B5%8B%E8%AF%95%E8%AF%84%E8%AE%BA%E7%A6%81%E6%AD%A2/"/>
+    <id>http://benzenpenxil.xyz/1970/02/05/test/测试评论禁止/</id>
+    <published>1970-02-05T02:50:37.000Z</published>
+    <updated>2018-02-05T04:52:32.216Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><em>本文将无法评论</em>  </p><hr><a id="more"></a><p>不能说的秘密（逃）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;本文将无法评论&lt;/em&gt;  &lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="test" scheme="http://benzenpenxil.xyz/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://benzenpenxil.xyz/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>评论系统已上线</title>
+    <link href="http://benzenpenxil.xyz/1970/02/05/test/%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%B7%B2%E4%B8%8A%E7%BA%BF/"/>
+    <id>http://benzenpenxil.xyz/1970/02/05/test/评论系统已上线/</id>
+    <published>1970-02-05T02:15:04.000Z</published>
+    <updated>2018-02-05T04:52:31.234Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><em>采用第三方评论系统来必力</em>  </p><hr><a id="more"></a>  <p><strong>欢迎留言</strong>  </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;em&gt;采用第三方评论系统来必力&lt;/em&gt;  &lt;/p&gt;
+&lt;hr&gt;
+    
+    </summary>
+    
+      <category term="test" scheme="http://benzenpenxil.xyz/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://benzenpenxil.xyz/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试视频功能</title>
     <link href="http://benzenpenxil.xyz/1970/02/04/test/%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E5%8A%9F%E8%83%BD/"/>
     <id>http://benzenpenxil.xyz/1970/02/04/test/测试视频功能/</id>
