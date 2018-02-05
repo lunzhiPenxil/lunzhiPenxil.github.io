@@ -31,21 +31,28 @@
 
     <url>
         <loc>http://benzenpenxil.xyz/tags/test/</loc>
-        <lastmod>2018-02-05T03:14:19.805Z</lastmod>
+        <lastmod>2018-02-05T04:12:55.665Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://benzenpenxil.xyz/tags/copyright/</loc>
+        <lastmod>2018-02-05T04:12:55.665Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://benzenpenxil.xyz/tags/water/</loc>
-        <lastmod>2018-02-05T03:42:52.517Z</lastmod>
+        <lastmod>2018-02-05T04:22:11.825Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://benzenpenxil.xyz/tags/fun/</loc>
-        <lastmod>2018-02-05T03:42:52.517Z</lastmod>
+        <lastmod>2018-02-05T04:22:11.825Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
