@@ -1345,6 +1345,284 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://benzenpenxil.xyz/test/Clock/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="BenzenPenxil">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Borderland">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/test/Clock/" itemprop="url">CLOCK</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="1900-02-06T10:15:04+08:00">
+                1900-02-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/test/" itemprop="url" rel="index">
+                    <span itemprop="name">test</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+            <div class="post-wordcount">
+              
+                <span class="post-meta-divider">|</span>
+				
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Words count in article</span>
+                
+                <span title="Words count in article">
+                  5
+                </span>
+              
+
+              
+
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <script src="/assets/js/APlayer.min.js"> </script><p><em>测试Javascript脚本</em>  </p>
+<hr>
+<div id="tab"><br>    <div id="Tradion"><br>        <div id="hours" class="tran"></div><br>        <div id="minutes" class="tran"></div><br>        <div id="seconds" class="tran"></div><br>        <div id="dian"></div><br>    </div><br>    <h1 id="aTime"></h1><br>    <h3 id="aDate"></h3><br>    <h2 id="week"></h2><br></div>
+
+<style type="text/css">
+        #tab{
+            width: 500px;
+            height: 200px;
+            /*background:-webkit-gradient(linear,center top,center bottom,from(blue), to(white));*/
+            background: -webkit-linear-gradient(top,#007fff,#84bff9);/*css3设置渐变*/
+            margin-bottom: 100px;
+        }
+        #aTime{
+            color: #fff;
+            /*text-align: center;*/
+            /*line-height: 200px;*/
+            float: left;
+        }
+        #Tradion{
+            width: 100px;
+            height: 100px;
+            border: 2px solid #fff;
+            border-radius: 100px;
+            float: left;
+            margin: 50px 50px;
+        }
+        #hours{
+            width: 30px;
+            height: 2px;
+            margin:20px 50px;
+            background: #fff;
+            transform-origin: left bottom;
+        }
+        #minutes{
+            width: 38px;
+            height: 2px;
+            background: #fff;
+            margin:-51px 51px;
+            transform-origin: left bottom;
+            transform:rotate(0deg);
+        }
+        #seconds{
+            width: 45px;
+            height: 1px;
+            background: #fff;
+            margin:23px 50px;
+            transform-origin: left bottom;
+            transform:rotate(0deg);
+
+        }
+        .tran{
+            transform: rotate(-90deg);/*这里测试了一下旋转角*/
+        }
+        #dian{
+            width:6px;
+            height: 6px;
+            border-radius: 6px;
+            background: #fff;
+            margin:-54px 47px;
+        }
+        #aDate,#week{
+            color: #fff;
+            padding-top: 50px;
+        }
+    </style>
+
+<script type="text/javascript">
+        window.onload=function(){
+            function addzero(num){
+                if(num>=10)
+                {
+                    return ""+num;
+                }
+                else
+                {
+                    return "0"+num;
+                }
+            }
+
+            function times(){
+                var date=new Date();
+                var aTime=document.getElementById('aTime');
+                var str= addzero(date.getHours())+":"+ addzero(date.getMinutes())+":"+ addzero(date.getSeconds());
+                aTime.innerHTML=str;
+            }
+            setInterval(times,1000);
+            times();
+            function Ttranform(){
+                var date=new Date();
+                var hours=document.getElementById('hours');
+                var minutes=document.getElementById('minutes');
+                var seconds=document.getElementById('seconds');
+                var num=date.getHours();
+                var num2=date.getMinutes();
+                var num3=date.getSeconds();
+                hours.style.transform="rotate("+(num*30-90)+"deg)";
+                minutes.style.transform="rotate("+(num2*6-90)+"deg)";
+                seconds.style.transform="rotate("+(num3*6-90)+"deg)";
+
+            }
+            setInterval(Ttranform,1000);
+            Ttranform();
+        }
+    </script>
+
+<script type="text/javascript">
+        function Adate(){
+                var date=new Date();
+                var aDate=document.getElementById("aDate");
+                var week=document.getElementById('week');
+                var weekList=["星期天","星期一","星期二","星期三","星期四","星期五","星期六"];
+                var str= date.getFullYear()+"-"+(date.getMonth()+1)+"-"+ date.getDate();
+                aDate.innerHTML=str;
+                var westr=weekList[date.getDay()];
+                week.innerHTML=westr;
+            }
+            Adate();
+    </script>
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://benzenpenxil.xyz/test/测试评论禁止/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1831,173 +2109,6 @@
 
 
     
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-  
-  
-  
-  <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://benzenpenxil.xyz/test/测试音乐功能/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="BenzenPenxil">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Borderland">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-                
-                <a class="post-title-link" href="/test/测试音乐功能/" itemprop="url">测试音乐功能</a></h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">Posted on</span>
-              
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="1900-02-04T15:02:09+08:00">
-                1900-02-04
-              </time>
-            
-
-            
-
-            
-          </span>
-
-          
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">In</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/test/" itemprop="url" rel="index">
-                    <span itemprop="name">test</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
-
-          
-            
-          
-
-          
-          
-
-          
-
-          
-            <div class="post-wordcount">
-              
-                <span class="post-meta-divider">|</span>
-				
-                <span class="post-meta-item-icon">
-                  <i class="fa fa-file-word-o"></i>
-                </span>
-                
-                  <span class="post-meta-item-text">Words count in article</span>
-                
-                <span title="Words count in article">
-                  59
-                </span>
-              
-
-              
-
-              
-            </div>
-          
-
-          
-
-        </div>
-      </header>
-    
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-      
-
-      
-        
-          <p><em>本文内置音乐播放器</em><br><em>(内含自动播放音频)</em>  </p>
-<hr>
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/test/测试音乐功能/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
-      
-    </div>
-    
-    
-    
-
-    
-
-    
-
-    
-
-    <footer class="post-footer">
-      
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </div>
-  
-  
-  
-  </article>
-
-
-    
   </section>
 
   
@@ -2050,7 +2161,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives/">
-                <span class="site-state-item-count">33</span>
+                <span class="site-state-item-count">34</span>
                 <span class="site-state-item-name">posts</span>
               </a>
             </div>

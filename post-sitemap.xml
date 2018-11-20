@@ -7,6 +7,30 @@
     </url>
 
     <url>
+        <loc>http://benzenpenxil.xyz/test/Clock/</loc>
+        <lastmod>2018-11-20T06:03:32.707Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://benzenpenxil.xyz/%E5%BA%9F%E5%9C%9F%E9%A3%9F%E4%BA%BA%E8%80%83/%E9%B2%B8%E6%AD%8C/</loc>
+        <lastmod>2018-11-12T03:57:36.206Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://benzenpenxil.xyz/%E9%9A%8F%E7%AC%94/%E7%A8%BB%E8%8D%89/</loc>
+        <lastmod>2018-11-06T12:53:11.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://benzenpenxil.xyz/%E9%9A%8F%E7%AC%94/%E7%8F%8A%E7%91%9A%E7%A4%81/</loc>
         <lastmod>2018-10-23T12:18:27.072Z</lastmod>
         <changefreq>weekly</changefreq>
