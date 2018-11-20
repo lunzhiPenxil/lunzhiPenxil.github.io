@@ -4,8 +4,76 @@
 
     
   <url>
+    <loc>http://benzenpenxil.xyz/%E5%BA%9F%E5%9C%9F%E9%A3%9F%E4%BA%BA%E8%80%83/%E8%8B%AF%EF%BC%9A%E4%BB%91%E8%B4%A8/</loc>
+    <lastmod>2018-11-20T10:14:20.208Z</lastmod>
+    <data>
+        <display>
+        <title>苯：仑质</title>
+        <pubTime>2016-08-18T15:36:29.000Z</pubTime>
+        
+        <tag>废土食人考</tag>
+         
+        <tag>仑质</tag>
+         
+        <tag>Penxil</tag>
+         
+         
+           
+             
+              <breadCrumb title="废土食人考" url="http://benzenpenxil.xyz/categories/%E5%BA%9F%E5%9C%9F%E9%A3%9F%E4%BA%BA%E8%80%83/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://benzenpenxil.xyz/test/%E6%B5%8B%E8%AF%95%E9%9F%B3%E4%B9%90%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2018-11-20T10:13:12.354Z</lastmod>
+    <data>
+        <display>
+        <title>测试音乐功能</title>
+        <pubTime>1900-02-04T07:02:09.000Z</pubTime>
+        
+        <tag>test</tag>
+         
+        <tag>music</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="http://benzenpenxil.xyz/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://benzenpenxil.xyz/test/%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E5%8A%9F%E8%83%BD/</loc>
+    <lastmod>2018-11-20T09:50:43.684Z</lastmod>
+    <data>
+        <display>
+        <title>测试视频功能</title>
+        <pubTime>1900-02-04T08:11:24.000Z</pubTime>
+        
+        <tag>test</tag>
+         
+        <tag>video</tag>
+         
+         
+           
+             
+              <breadCrumb title="test" url="http://benzenpenxil.xyz/categories/test/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://benzenpenxil.xyz/test/Clock/</loc>
-    <lastmod>2018-11-20T06:16:35.880Z</lastmod>
+    <lastmod>2018-11-20T09:46:19.579Z</lastmod>
     <data>
         <display>
         <title>CLOCK</title>
@@ -33,11 +101,11 @@
         
         <tag>废土食人考</tag>
          
-        <tag>青果</tag>
-         
         <tag>仑质</tag>
          
         <tag>Penxil</tag>
+         
+        <tag>青果</tag>
          
          
            
@@ -157,11 +225,11 @@
         
         <tag>废土食人考</tag>
          
-        <tag>青果</tag>
-         
         <tag>仑质</tag>
          
         <tag>Penxil</tag>
+         
+        <tag>青果</tag>
          
          
            
@@ -593,35 +661,11 @@
         
         <tag>废土食人考</tag>
          
+        <tag>仑质</tag>
+         
+        <tag>Penxil</tag>
+         
         <tag>青果</tag>
-         
-        <tag>仑质</tag>
-         
-        <tag>Penxil</tag>
-         
-         
-           
-             
-              <breadCrumb title="废土食人考" url="http://benzenpenxil.xyz/categories/%E5%BA%9F%E5%9C%9F%E9%A3%9F%E4%BA%BA%E8%80%83/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://benzenpenxil.xyz/%E5%BA%9F%E5%9C%9F%E9%A3%9F%E4%BA%BA%E8%80%83/%E8%8B%AF%EF%BC%9A%E4%BB%91%E8%B4%A8/</loc>
-    <lastmod>2018-02-06T09:55:29.749Z</lastmod>
-    <data>
-        <display>
-        <title>苯：仑质</title>
-        <pubTime>2016-08-18T15:36:29.000Z</pubTime>
-        
-        <tag>废土食人考</tag>
-         
-        <tag>仑质</tag>
-         
-        <tag>Penxil</tag>
          
          
            
@@ -708,50 +752,6 @@
         <pubTime>1900-02-05T02:15:04.000Z</pubTime>
         
         <tag>test</tag>
-         
-         
-           
-             
-              <breadCrumb title="test" url="http://benzenpenxil.xyz/categories/test/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://benzenpenxil.xyz/test/%E6%B5%8B%E8%AF%95%E9%9F%B3%E4%B9%90%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2018-02-05T07:29:18.629Z</lastmod>
-    <data>
-        <display>
-        <title>测试音乐功能</title>
-        <pubTime>1900-02-04T07:02:09.000Z</pubTime>
-        
-        <tag>test</tag>
-         
-        <tag>music</tag>
-         
-         
-           
-             
-              <breadCrumb title="test" url="http://benzenpenxil.xyz/categories/test/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://benzenpenxil.xyz/test/%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2018-02-05T07:29:08.835Z</lastmod>
-    <data>
-        <display>
-        <title>测试视频功能</title>
-        <pubTime>1900-02-04T08:11:24.000Z</pubTime>
-        
-        <tag>test</tag>
-         
-        <tag>video</tag>
          
          
            
